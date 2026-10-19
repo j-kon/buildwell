@@ -1,0 +1,16 @@
+{
+  "name": "buildwell-mobile-pwa",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Buildwell mobile-first React PWA, interactive browser demo and Vercel static deployment",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "dev": "node scripts/serve.cjs",
+    "build": "node scripts/build.cjs",
+    "test": "node tests/static-check.cjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "engines": {"node": ">=18"}
+}

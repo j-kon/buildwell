@@ -1,0 +1,19 @@
+{
+  "name": "Buildwell Partners | Property Services",
+  "short_name": "Buildwell",
+  "description": "Plan property projects, request skilled artisans and manage project quotations in one place.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#f6f8f3",
+  "theme_color": "#12372c",
+  "orientation": "any",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {"src":"/icons/buildwell-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/icons/buildwell-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"/icons/buildwell-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
